@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Swift iOS programlama kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-(firstRepo.jpeg)
+![Image](/Users/mesutalver/Desktop/firstRepo.jpeg)
 
 ## Installation
 
@@ -9,7 +9,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Swift iOS programlama kapsamın
 
 '''
 git clone https://github.com/MesutAlver/kodluyoruzilkrepo
-
 '''
 
 ## Usage
@@ -18,10 +17,10 @@ Projeyi oluşturduktan sonra Visual Studio Code programında açınız.
 
 linux için:
 
-'
-cd kodluyoruzilkrepo
-code .
-'
+'''
+cd kodluyoyuruzilkrepo
+code.
+'''
 
 ## Contributing
 
