@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Swift iOS programlama kapsamın
 
 '''
 git clone https://github.com/MesutAlver/kodluyoruzilkrepo
----
+
 '''
 
 ## Usage
@@ -18,11 +18,10 @@ Projeyi oluşturduktan sonra Visual Studio Code programında açınız.
 
 linux için:
 
-'''
+'
 cd kodluyoruzilkrepo
 code .
----
-'''
+'
 
 ## Contributing
 
